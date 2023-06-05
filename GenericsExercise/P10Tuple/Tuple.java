@@ -1,4 +1,4 @@
-package GenericsExercise.Tuple;
+package GenericsExercise.P10Tuple;
 public class Tuple<F, S> {
     private F first;
     private S second;

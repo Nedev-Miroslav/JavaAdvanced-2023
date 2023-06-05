@@ -1,4 +1,4 @@
-package GenericsExercise.Tuple;
+package GenericsExercise.P10Tuple;
 import java.util.Scanner;
 
 public class Main {

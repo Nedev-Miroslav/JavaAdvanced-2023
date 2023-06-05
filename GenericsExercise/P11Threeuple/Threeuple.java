@@ -1,4 +1,4 @@
-package GenericsExercise.Threeuple;
+package GenericsExercise.P11Threeuple;
 
 public class Threeuple<F, S, T> {
     private F first;

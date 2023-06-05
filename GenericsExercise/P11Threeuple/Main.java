@@ -1,4 +1,4 @@
-package GenericsExercise.Threeuple;
+package GenericsExercise.P11Threeuple;
 
 import java.util.Scanner;
 
